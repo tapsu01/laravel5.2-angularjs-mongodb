@@ -18,7 +18,7 @@ Route::group(array('prefix'=>'/sitepoint/partials/'),function(){
     }));
 });
 
-#author: Nguyen Tu
-#created_at: 10/07/2016
-#email: nguyenminhtu.nguyen@gmail.com
-#I'm happy if I get more comments from you. thank you!
+author: Nguyen Tu
+created_at: 10/07/2016
+email: nguyenminhtu.nguyen@gmail.com
+I'm happy if I get more comments from you. thank you!
